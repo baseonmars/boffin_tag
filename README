@@ -1,0 +1,13 @@
+DO NOT USE THIS WITHOUT READING THE CODE AND UNDERSTANDING WHAT IT DOES.
+
+It's a v0.1a version of a script that'll take a boffin database of your tagged songs and set the id3 tags on the files.
+
+It's slow - writing id3 information sucks.
+
+Writing id3 information involved re-writing your mp3 files.
+
+THERE IS NO UNDO.
+
+I might fix this up, I just hacked it together this one time at bandcamp...
+
+Dan - baseonmars
